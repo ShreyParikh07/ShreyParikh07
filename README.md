@@ -1,7 +1,12 @@
-## <p style="text-align: center;">Ahoy, I am Shrey Parikh 👋</p>                                                            
+<!-- <p align=”center”>
 
-###                                                 I am a biology student that uses programming 
-<!--
+## Ahoy, I am Shrey Parikh 👋
+
+### I am a biology student with a passion for programming 
+
+
+
+
 **ShreyParikh07/ShreyParikh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
