@@ -1,5 +1,6 @@
-### Hi there 👋
+## <p style="text-align: center;">Ahoy, I am Shrey Parikh 👋</p>                                                            
 
+###                                                 I am a biology student that uses programming 
 <!--
 **ShreyParikh07/ShreyParikh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
