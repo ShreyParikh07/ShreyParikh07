@@ -1,4 +1,4 @@
-<h1 align="center"> Ahoy, My name is Shrey Parikh 👋</h1>
+<h1 align="center"> Ahoy,  I am Shrey Parikh 👋</h1>
 <h2 align="center"> I am a biology student with a passion for programming </h2>
 
 <p align="center">
