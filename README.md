@@ -14,6 +14,10 @@ My project is divided into two parts and the first part revolves around creating
 
 The second part of my project involves building a sex classifier for scRNA-Seq data to classify cells into males and females. The classifier is in the final stages and can be found on [ScraMF](https://github.com/KlughammerLab/Sex-Classifier)
 
+Other than biology, I am very passionate about cooking and music. My suprisingly high consumption of cooking videos on youtube helps me harness my skills in the kitchen better. I also love playing basketball, nature and everything outdoors! At the risk of sounding geeky, I will say that I love watching wildlife documentaries and can recommend some very good ones too😄
+
+Thank you for reading and hope you have an absolutely mindblasting day!
+
 ### My Technical Skills Include:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![XGBoost](https://img.shields.io/badge/-XGBoost-blue?style=for-the-badge)![Scanpy](https://img.shields.io/badge/-Scanpy-gray?style=for-the-badge)![scArches](https://img.shields.io/badge/-scArches-informational?style=for-the-badge) 
 
