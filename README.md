@@ -21,6 +21,9 @@ The second part of my project involves building a sex classifier for scRNA-Seq d
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)!
 
+### My GitHub Stats 📈
+[![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyParikh07&count_private=true&show_icons=true)](https://github.com/ShreyParikh07/)
+
 
 ### 🤝 Connect With Me
 <a href="https://twitter.com/ShreyParikh07"><img width="25" height="25" align=”left” src="https://github.com/ShreyParikh07/ShreyParikh07/blob/main/Icons/Twitter_Icon.png" alt="Shrey Parikh | Twitter" width=”21px”/></a>      <a href="https://www.instagram.com/shreyp007/"><img width="25" height="25" align=”left” src="https://github.com/ShreyParikh07/ShreyParikh07/blob/main/Icons/Instagram_Icon.png" alt="Shrey Parikh | Instagram" width=”21px”/></a>       <a href="mailto:Shrey.Parikh@campus.lmu.de"><img width="25" height="25" align=”left” src="https://github.com/ShreyParikh07/ShreyParikh07/blob/main/Icons/Email_Logo.png" alt="Shrey Parikh | Email" width=”21px”/></a>
