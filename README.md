@@ -1,5 +1,5 @@
 <h1 align="center"> Ahoy,  I am Shrey Parikh 👋</h1>
-<h2 align="center"> I am a biology student with a passion for programming </h2>
+<h2 align="center"> A biology student with a passion for programming </h2>
 
 <p align="center">
 <img width= "350" height="450" src="https://user-images.githubusercontent.com/118828814/213423351-d4f62eee-99ef-4840-94e6-fbe61bc87bae.png" alt="my banner">
