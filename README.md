@@ -7,13 +7,13 @@
 </p>
 <h3> 📜 About </h3>
 I am a PhD student under the guidance of Prof. Dr. Fabian Theis at the Institute of Computational Biology, Helmholtz Zentrum München😃
-
+\\
 
 I have completeted my master thesis titled 'Mapping the transcriptomic landscape of PBMCs across health and disease' under the guidance of Dr. Johanna Klughammer at the Gene Centre, LMU🧑‍💻 My project was divided into two parts and the first part revolved around creating a reference atlas for healthy peripheral blood mononuclear cells (PBMCs) scRNA-Seq data by trainining conditional neural networks through scVI from the scArches tool with datasets obtained from publications. The atlas allowed the cell type repertoire and expression landscape mapping of paediatric patients with interferonopathies and lupus which aided in better understanding of the healthy and diseased states. The second part of my project involved building a sex classifier for scRNA-Seq data to classify cells into males and females. The classifier can be found on [ScraMF (https://github.com/KlughammerLab/Sex-Classifier)
-
+\\
 
 Other than biology, I am very passionate about cooking and music. My suprisingly high consumption of cooking videos on youtube helps me harness my skills in the kitchen better. I also love playing basketball, nature and everything outdoors! At the risk of sounding geeky, I will say that I love watching wildlife documentaries and can recommend some very good ones too😄
-
+\\
 
 Thank you for reading and hope you have an absolutely mindblasting day!
 
