@@ -1,4 +1,4 @@
-<h1 align="center"> Howdy,  I bins, Shrey Parikh 👋</h1>
+<h1 align="center"> Servus! I bins, Shrey Parikh 👋</h1>
 <h2 align="center"> A biology student with a passion for programming </h2>
 
 <p align="center">
